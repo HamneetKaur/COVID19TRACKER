@@ -4,3 +4,4 @@ In backend we have used mysql and PHP.API is used to extract data.
 This website is fully dynamic and responsive.
 The functionality of this website is that is to know the exact figures of total people infected, recovered and total deaths caused by corona virus .
 Real time API are used so that the data remains up to date.
+
